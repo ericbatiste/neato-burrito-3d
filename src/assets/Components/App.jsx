@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react'
+import { useRef } from 'react'
 import { Canvas } from '@react-three/fiber'
 import { PerspectiveCamera, Stars, Cloud } from '@react-three/drei'
 import Cube from './Cube'
